@@ -1,4 +1,4 @@
-# Nhóm [số nhóm] · CS13 Lộ trình sản phẩm AI
+# Nhóm 1 · CS13 Lộ trình sản phẩm AI
 
 AI in Action · Track 1 · Khóa 4 · Thực hành chiều 16/10/2026
 
@@ -30,5 +30,5 @@ AI in Action · Track 1 · Khóa 4 · Thực hành chiều 16/10/2026
 
 | Bài nộp | File | Hạn | Trạng thái |
 |---|---|---|---|
-| Nhiệm vụ 1–4 | [Nhom_CS13.xlsx](../Nhom_CS13.xlsx) (đổi tên thành `[số nhóm]_CS13.xlsx`) | 18:00 ngày 16/10/2026 | Chưa nộp |
+| Nhiệm vụ 1–4 | [Nhom1_CS13.xlsx](../Nhom1_CS13.xlsx) | 18:00 ngày 16/10/2026 | Chưa nộp |
 | Nhiệm vụ 5 | Trang 5 của cùng file | 23:59 ngày 19/10/2026 | Chưa nộp |
